@@ -33,7 +33,7 @@ The backend drives the AR Guidance system by processing real-time data from the 
 To set up the backend locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mudasir12315/YOLO_FYP.git
+   git clone https://github.com/rajazohaibsaqib/AR_GUIDANCE_FYP_BACKEND.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -82,3 +82,4 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use, 
 
 ### Notes
 - **Database Credentials**: Replace `yourusername` and `yourpassword` in the MySQL URI with your actual MySQL credentials.
+
