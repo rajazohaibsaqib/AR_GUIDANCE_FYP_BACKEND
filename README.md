@@ -65,7 +65,7 @@ To set up the backend locally:
 
 ## Frontend Repository
 This backend pairs with the frontend, built in FLutter Dart. Check it out here:  
-[**Frontend Repository Link**](https://github.com/rajazohaibsaqib/AR-Guidance-For-Visually-Impaired-Drivers-Frontend.git)
+[**Frontend Repository Link**](https://github.com/rajazohaibsaqib/AR_GUIDANCE_FYP.git)
 
 ## Future Enhancements
 - Optimize YOLOv8 for faster inference on mobile devices.
@@ -82,5 +82,6 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use, 
 
 ### Notes
 - **Database Credentials**: Replace `yourusername` and `yourpassword` in the MySQL URI with your actual MySQL credentials.
+
 
 
